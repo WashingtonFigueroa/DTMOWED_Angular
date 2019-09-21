@@ -1,5 +1,5 @@
 # DTMOWED_Angular
 Angular paso a paso
-Instaar las dependencias en los ejercicios de angular
+Instalar las dependencias (node_modules) en cada ejercicio de angular
 npm install 
-ejecutar dentro de cada carpeta.
+Nota:ejecutar dentro de cada carpeta.
